@@ -3,9 +3,6 @@
 /.vscode
 __pycache__
 myvenv
-db.postgresql_psycopg2
+db.postgresql
 /static
 .DS_Store
-.project
-.pydevproject
-.settings/
